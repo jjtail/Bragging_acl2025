@@ -22,6 +22,27 @@
 }
 ```
 
+```
+{
+    "original_text": "初始的、未经修饰的原始文本。",
+    "original_analysis": {
+        "Potential Social Context": "描述该言论可能出现的场景或平台。",
+        "Speaker's Intent": "分析说话者背后的真实意图或动机。",
+        "Desired Perception": "解释说话者希望给他人留下的印象。",
+        "Appropriateness": "探讨该言论在哪些社交场合中是得体的，哪些是不合时宜的。"
+    },
+    "rewritten_variants": [
+        {
+            "rewritten_variant": {
+                "chosen_strategy": "所使用的沟通策略的名称。",
+                "rewritten_text": "经过策略重写后的新版本文本。",
+                "justification": "详细解释了如何以及为何根据所选策略对原始文本进行修改的理论依据。"
+            }
+        }
+    ]
+}
+```
+
 
 # Core Rewriting Strategies
 The dataset currently focuses on several key strategies for transforming communication:
