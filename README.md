@@ -1,5 +1,6 @@
 # Bragging_acl2025 Oral
-**"It’s Not Bragging If You Can Back It Up:  Can LLMs Understand Braggings?"**. Our research provides a comprehensive study into how Large Language Models (LLMs) recognize, explain, and generate bragging—a complex and pervasive social-linguistic phenomenon. This work highlights the current capabilities and limitations of LLMs in navigating nuanced social interactions.
+**"It’s Not Bragging If You Can Back It Up:  Can LLMs Understand Braggings?"**. 
+Our research provides a comprehensive study into how LLMs recognize, explain, and generate bragging—a complex and pervasive social-linguistic phenomenon. This work highlights the current capabilities and limitations of LLMs in navigating nuanced social interactions.
 
 ```
 {
@@ -58,7 +59,7 @@ The dataset currently focuses on several key strategies for transforming communi
 
 # Coming soon
 
-值得一提的是，在中文网络文化中，“bragging” (吹牛) 有一个更巧妙的对应词：“凡尔赛”，特指一种“以退为进”的谦虚式吹嘘。相关的中文数据集我们也即将开源，敬请期待！
+值得一提的是，在中文网络文化中，“bragging” (吹牛) 有一个更巧妙的对应词：**凡尔赛**，特指一种“以退为进”的谦虚式吹嘘。相关的中文数据集我们也即将开源，敬请期待！
 
-It is worth noting that in Chinese internet culture, the concept of "bragging" has a popular and nuanced counterpart: "凡尔赛" (Fán'ěrsài), which specifically refers to the art of humblebragging. We are also preparing to release a corresponding Chinese dataset. Please stay tuned for updates!
+It is worth noting that in Chinese internet culture, the concept of "bragging" has a popular and nuanced counterpart: **凡尔赛 (Fán'ěrsài)**, which specifically refers to the art of humblebragging. We are also preparing to release a corresponding Chinese dataset. Please stay tuned for updates!
 
