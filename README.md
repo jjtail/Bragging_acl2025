@@ -45,9 +45,7 @@ Our research provides a comprehensive study into how LLMs recognize, explain, an
 }
 ```
 
-
-# Core Rewriting Strategies
-The dataset currently focuses on several key strategies for transforming communication:
+The dataset currently also focuses on several key strategies for transforming communication:
 
 - The Humble Brag: Framing an achievement or point of pride as a complaint, a burden, or an inconvenience. This allows the speaker to share positive information indirectly while feigning humility or frustration.
 
