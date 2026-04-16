@@ -3,6 +3,12 @@
 
 Our research provides a comprehensive study into how LLMs recognize, explain, and generate bragging—a complex and pervasive social-linguistic phenomenon. This work highlights the current capabilities and limitations of LLMs in navigating nuanced social interactions.
 
+## Video
+
+<video src="./bragging.mp4" controls width="100%"></video>
+
+If the embedded player does not render on your GitHub view, open [bragging.mp4](./bragging.mp4) directly.
+
 ```
 {
     "original_text": "The initial, raw statement.",
