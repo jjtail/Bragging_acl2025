@@ -5,9 +5,9 @@ Our research provides a comprehensive study into how LLMs recognize, explain, an
 
 ## Video
 
-<video src="./bragging.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4" controls width="100%"></video>
 
-If the embedded player does not render on your GitHub view, open [bragging.mp4](./bragging.mp4) directly.
+If the embedded player does not render on your GitHub view, open [bragging.mp4](https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4) directly.
 
 ```
 {
