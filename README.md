@@ -5,9 +5,11 @@ Our research provides a comprehensive study into how LLMs recognize, explain, an
 
 ## Video
 
-<video src="https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4" controls width="100%"></video>
+Click the cover image below to open the presentation video.
 
-If the embedded player does not render on your GitHub view, open [bragging.mp4](https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4) directly.
+[![Bragging ACL 2025 presentation video cover](poster.png)](https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4)
+
+Direct link: [bragging.mp4](https://raw.githubusercontent.com/jjtail/Bragging_acl2025/main/bragging.mp4)
 
 ```
 {
@@ -67,4 +69,3 @@ The dataset currently also focuses on several key strategies for transforming co
 值得一提的是，在中文网络文化中，“bragging” (吹牛) 有一个更巧妙的对应词：**凡尔赛**，特指一种“以退为进”的谦虚式吹嘘。相关的中文数据集我们也即将开源，敬请期待！
 
 It is worth noting that in Chinese internet culture, the concept of "bragging" has a popular and nuanced counterpart: **凡尔赛 (Fán'ěrsài)**, which specifically refers to the art of humblebragging. We are also preparing to release a corresponding Chinese dataset. Please stay tuned for updates!
-
