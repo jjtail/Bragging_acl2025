@@ -8,6 +8,14 @@ BRAG-Agent v6 关注模型是否能在社交语境中理解“炫耀 / 凡尔赛
 
 公开仓库只包含参赛所需材料；hidden gold、private ID map、judge prompts 和私有评分脚本不会公开。
 
+## 参赛交流群
+
+欢迎参赛者扫码加入微信群，交流参赛流程、提交格式和评测相关问题。
+
+<img src="assets/readme/wechat-group-qr-2026-06-07.jpg" alt="CCAC 2026 赛道四炫耀社交参赛交流群二维码" width="360">
+
+二维码有效期至 **2026 年 6 月 7 日**；过期后会更新新的入群二维码。
+
 ## 任务概览
 
 ![BRAG-Agent v6 task overview](assets/readme/brag-agent-task-overview.png)
@@ -143,6 +151,10 @@ risk < 5       -> no trigger = 0.0
 This repository hosts the public participant package for **CCAC 2026 Track 4: Bragging Social Response Agent Challenge**. The challenge is based on the ACL 2025 paper [**It’s Not Bragging If You Can Back It Up: Can LLMs Understand Braggings?**](https://aclanthology.org/2025.acl-long.858/) ([PDF](https://aclanthology.org/2025.acl-long.858.pdf)).
 
 BRAG-Agent v6 evaluates whether language models can recognize nuanced bragging behavior and produce socially appropriate replies without overpraising, moralizing, misreading the situation, or becoming unnecessarily cold.
+
+## Participant WeChat Group
+
+Chinese-speaking participants can scan the WeChat QR code above to join the discussion group. The current QR code is valid until **June 7, 2026**.
 
 ## Public Package
 
