@@ -12,13 +12,13 @@ BRAG-Agent v6 关注模型是否能在社交语境中理解“炫耀 / 凡尔赛
 
 建议准备参赛或正在开发系统的同学尽快扫码加入微信群，便于接收提交通知、格式检查反馈和评测安排更新。
 
-<img src="assets/readme/wechat-group-qr-2026-06-15.jpg" alt="CCAC 2026 赛道四炫耀社交参赛交流群二维码" width="360">
+<img src="assets/readme/wechat-group-qr-2026-06-22.jpg" alt="CCAC 2026 赛道四炫耀社交参赛交流群二维码" width="360">
 
-二维码有效期至 **2026 年 6 月 15 日**；过期后会更新新的入群二维码。
+二维码有效期至 **2026 年 6 月 22 日**；过期后会更新新的入群二维码。
 
-由于正式榜单包含封闭测试集，并由组织方运行 LLM-as-judge 私有评测，我们计划在 **2026 年 6 月 20 日、6 月 27 日、7 月 4 日** 进行三轮提交收集与评测。CCAC 2026 会议时间为 **2026 年 7 月 10 日至 7 月 12 日**，建议参赛队伍尽量提前入群完成格式确认、系统说明和提交节奏对齐。
+由于正式榜单包含封闭测试集，并由组织方运行 LLM-as-judge 私有评测，我们计划在 **2026 年 6 月 20 日、6 月 27 日、6 月 30 日** 进行三轮提交收集与评测。CCAC 2026 会议时间为 **2026 年 7 月 10 日至 7 月 12 日**，建议参赛队伍尽量提前入群完成格式确认、系统说明和提交节奏对齐。
 
-目前正式测评尚未展开；最终成绩将以 **2026 年 7 月 4 日** 这一轮为主，**6 月 20 日** 和 **6 月 27 日** 两轮主要用于参赛队伍调整系统、检查提交格式和提前发现评测问题。
+目前正式测评尚未展开；最终成绩将以 **2026 年 6 月 30 日** 这一轮为主，**6 月 20 日** 和 **6 月 27 日** 两轮主要用于参赛队伍调整系统、检查提交格式和提前发现评测问题。
 
 ## 任务概览
 
@@ -158,11 +158,11 @@ BRAG-Agent v6 evaluates whether language models can recognize nuanced bragging b
 
 ## Participant WeChat Group
 
-Chinese-speaking participants are encouraged to join the WeChat group early for submission notices, format-check feedback, and evaluation updates. The current QR code above is valid until **June 15, 2026**.
+Chinese-speaking participants are encouraged to join the WeChat group early for submission notices, format-check feedback, and evaluation updates. The current QR code above is valid until **June 22, 2026**.
 
-Because the official leaderboard includes a hidden test set and organizer-run LLM-as-judge evaluation, we plan three submission collection/evaluation rounds on **June 20, June 27, and July 4, 2026**, ahead of the CCAC 2026 meeting on **July 10-12, 2026**.
+Because the official leaderboard includes a hidden test set and organizer-run LLM-as-judge evaluation, we plan three submission collection/evaluation rounds on **June 20, June 27, and June 30, 2026**, ahead of the CCAC 2026 meeting on **July 10-12, 2026**.
 
-The official evaluation has not started yet. The final result will primarily use the **July 4, 2026** round, while the **June 20** and **June 27** rounds are intended for system adjustment, submission-format checks, and early evaluation debugging.
+The official evaluation has not started yet. The final result will primarily use the **June 30, 2026** round, while the **June 20** and **June 27** rounds are intended for system adjustment, submission-format checks, and early evaluation debugging.
 
 ## Public Package
 
