@@ -14,6 +14,8 @@ BRAG-Agent v6 关注模型是否能在社交语境中理解“炫耀 / 凡尔赛
 
 本仓库继续保留公开数据、格式检查脚本和参赛说明，供复现、教学和后续研究使用。正式榜单由组织方基于封闭测试集和私有 LLM-as-judge 流程完成；hidden gold、private ID map、judge prompts 和私有评分脚本仍不会公开。
 
+后续评测报告和汇报 PPT 会在整理完成后同步更新到本仓库。
+
 ## 任务概览
 
 ![BRAG-Agent v6 task overview](assets/readme/brag-agent-task-overview.png)
@@ -155,6 +157,8 @@ BRAG-Agent v6 evaluates whether language models can recognize nuanced bragging b
 The competition for this track ended on **June 28, 2026**. We are no longer accepting new participant submissions or group-join requests.
 
 The public data, format checker, and participant documentation remain available for reproduction, teaching, and follow-up research. The official leaderboard was run by the organizers with a hidden test set and private LLM-as-judge workflow; hidden labels, private ID maps, judge prompts, and private scoring scripts are not distributed.
+
+The follow-up evaluation report and presentation slides will be synchronized to this repository after they are finalized.
 
 ## Public Package
 
